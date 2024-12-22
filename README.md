@@ -3,7 +3,7 @@
 🎓 **Pre-final year student** pursuing a degree in Electronics and Communication Engineering (ECE).  
 💡 Passionate about **embedded systems**, **IoT**, **VLSI design**,  
 💻 Enthusiastic about programming, problem-solving, and building real-world applications.  
-📚
+
 
 ---
 
@@ -11,7 +11,7 @@
 
 ### Programming Languages
 - C, C++, Python,  
-- 
+  
 
 ### Tools & Platforms
 - MATLAB/Simulink,
