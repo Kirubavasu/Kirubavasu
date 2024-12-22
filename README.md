@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm [kirubanandhan.v]  
 
 🎓 **Pre-final year student** pursuing a degree in Electronics and Communication Engineering (ECE).  
 💡 Passionate about **embedded systems**, **IoT**, **VLSI design**,  
